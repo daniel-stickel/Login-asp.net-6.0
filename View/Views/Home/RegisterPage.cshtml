@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "RegisterPage";
+}
+
+<h1>RegisterPage</h1>
+
+<h1 class="text-center">
+    <p>Insira aqui os dados </p>
+    <form action="~Home/AuthCadastro" method="post" >
+        <label>Email</label>
+        <input type="text" name="email" />
+        <br />
+        <label>UserLogin</label>
+        <input type="text" name="userLogin" />
+        <br />
+           <label>UserPassword</label>
+        <input type="password" name="userPassword" />
+        <br />
+        <input type="submit" name="Cadastro"/>
+    </form>
+
+
+</h1>
