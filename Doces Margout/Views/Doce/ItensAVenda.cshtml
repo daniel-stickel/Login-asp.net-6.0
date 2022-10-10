@@ -1,0 +1,64 @@
+﻿@model IEnumerable<DocesMargout.Models.Doce>
+
+@{
+    ViewData["Title"] = "Itens a Venda";
+}
+
+<h1 style="font-size:36px">Olá estes são os itens a venda</h1>
+
+<body>
+
+    <table>
+        <tr>
+
+            <th>@ViewBag.Cuca</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+
+            if (item.Categoria == ECategoria.Cuca)
+            {
+                <tr>
+                    <td>Nome</td>
+                    <td style="color:khaki">@item.Nome</td>
+                </tr>
+                <tr>
+                    <td>Descrição</td>
+                    <td style="color:khaki">@item.Descricao</td>
+                </tr>
+                <tr>
+                    <td>Sabor</td>
+                    <td style="color:khaki">@item.Sabor</td>
+                </tr>
+                <tr>
+                    <td>Ingrediente</td>
+                    <td style="color:khaki">@item.Ingredientes</td>
+                </tr>
+                <tr>
+                    <td>Preço</td>
+                    <td style="color:khaki">@item.Preco.ToString("c")</td>
+                </tr>
+                //ToString("c") Faz com que automaticamente ja converte o valor para moeda local via GPS
+            }
+        }
+    </table>
+    <br />
+
+    <h1>@ViewBag.Bolo</h1>
+    @foreach (var item in Model)
+    {
+        if (item.Categoria == ECategoria.Bolo)
+        {
+            <h1>@item.Nome</h1>
+            <h2>@item.Descricao</h2>
+            <h3>@item.Sabor</h3>
+            <h4>@item.Ingredientes</h4>
+            <h5>@item.Preco.ToString("c")</h5>
+            //ToString("c") Faz com que automaticamente ja converte o valor para moeda local via GPS
+        }
+    }
+
+
+
+</body>
+
