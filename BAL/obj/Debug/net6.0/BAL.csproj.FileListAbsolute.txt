@@ -1,0 +1,17 @@
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\70410\Desktop\BAL\bin\Debug\net6.0\BAL.deps.json
+C:\Users\70410\Desktop\BAL\bin\Debug\net6.0\BAL.dll
+C:\Users\70410\Desktop\BAL\bin\Debug\net6.0\BAL.pdb
+C:\Users\70410\Desktop\BAL\bin\Debug\net6.0\DAL.dll
+C:\Users\70410\Desktop\BAL\bin\Debug\net6.0\Objects.dll
+C:\Users\70410\Desktop\BAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\70410\Desktop\BAL\bin\Debug\net6.0\Objects.pdb
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\BAL.dll
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\refint\BAL.dll
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\BAL.pdb
+C:\Users\70410\Desktop\BAL\obj\Debug\net6.0\ref\BAL.dll

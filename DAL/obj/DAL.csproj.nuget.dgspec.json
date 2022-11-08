@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\DAL\\DAL.csproj": {}
+    "C:\\Users\\70410\\Desktop\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\DAL\\DAL.csproj": {
+    "C:\\Users\\70410\\Desktop\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\70410\\Desktop\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\70410\\Desktop\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\70410\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\70410\\Desktop\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\70410\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\Model\\Model.csproj"
+              "C:\\Users\\70410\\Desktop\\Objects\\Objects.csproj": {
+                "projectPath": "C:\\Users\\70410\\Desktop\\Objects\\Objects.csproj"
               }
             }
           }
@@ -59,8 +59,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -69,24 +68,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\Model\\Model.csproj": {
+    "C:\\Users\\70410\\Desktop\\Objects\\Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\Model\\Model.csproj",
-        "projectName": "Model",
-        "projectPath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\Model\\obj\\",
+        "projectUniqueName": "C:\\Users\\70410\\Desktop\\Objects\\Objects.csproj",
+        "projectName": "Objects",
+        "projectPath": "C:\\Users\\70410\\Desktop\\Objects\\Objects.csproj",
+        "packagesPath": "C:\\Users\\70410\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\70410\\Desktop\\Objects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\70410\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -118,8 +117,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -128,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
